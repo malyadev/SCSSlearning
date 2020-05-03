@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eac03d52-3b26-4874-8d9b-b0e1e16f897a" name="Default Changelist" comment="" />
+    <list default="true" id="eac03d52-3b26-4874-8d9b-b0e1e16f897a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,6 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bNvZX08cb2hRULqq46UlsBJiqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -61,18 +67,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588485421900</updated>
-      <workItem from="1588485423958" duration="7118000" />
+      <workItem from="1588485423958" duration="7644000" />
     </task>
+    <task id="LOCAL-00001" summary="commit pour soumission">
+      <created>1588494171309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588494171309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit pour soumission" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit pour soumission" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588494083511">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="241" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1588494083511" />
+    <state x="370" y="335" key="CommitChangelistDialog2" timestamp="1588494171178">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="370" y="335" key="CommitChangelistDialog2/0.23.2560.1417@0.23.2560.1417" timestamp="1588494171178" />
+    <state x="376" y="460" key="Vcs.Push.Dialog.v2" timestamp="1588494226296">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="376" y="460" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1588494226296" />
     <state x="441" y="346" key="run.anything.popup" timestamp="1588494074635">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
