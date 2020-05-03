@@ -1,0 +1,77 @@
+.preciousRings {
+    width: 50pt;
+    height: 50pt;
+    border: solid #ff7c0d 3.3333333333pt;
+    border-radius: 50%;
+    box-shadow: 3.3333333333pt 3.3333333333pt 1.6666666667pt #733500;
+}
+
+.theOneRing {
+    width: 150pt;
+    height: 150pt;
+    border: solid #fdf313 10pt;
+    border-radius: 50%;
+    box-shadow: 10pt 10pt 5pt #767101;
+}
+
+.testRing {
+    width: 800pt;
+    height: 800pt;
+    border: solid #0f0f0f 53.3333333333pt;
+    border-radius: 50%;
+    box-shadow: 53.3333333333pt 53.3333333333pt 26.6666666667pt black;
+}
+
+.loopRing1 {
+    width: 60pt;
+    height: 60pt;
+    border: solid #0f0f0f 4pt;
+    border-radius: 50%;
+    box-shadow: 4pt 4pt 2pt black;
+    margin-right: -25pt;
+}
+
+.loopRing2 {
+    width: 70pt;
+    height: 70pt;
+    border: solid #0f0f0f 4.6666666667pt;
+    border-radius: 50%;
+    box-shadow: 4.6666666667pt 4.6666666667pt 2.3333333333pt black;
+    margin-right: -25pt;
+}
+
+.loopRing3 {
+    width: 80pt;
+    height: 80pt;
+    border: solid #0f0f0f 5.3333333333pt;
+    border-radius: 50%;
+    box-shadow: 5.3333333333pt 5.3333333333pt 2.6666666667pt black;
+    margin-right: -25pt;
+}
+
+.loopRing4 {
+    width: 90pt;
+    height: 90pt;
+    border: solid #0f0f0f 6pt;
+    border-radius: 50%;
+    box-shadow: 6pt 6pt 3pt black;
+    margin-right: -25pt;
+}
+
+.loopRing5 {
+    width: 100pt;
+    height: 100pt;
+    border: solid #0f0f0f 6.6666666667pt;
+    border-radius: 50%;
+    box-shadow: 6.6666666667pt 6.6666666667pt 3.3333333333pt black;
+    margin-right: -25pt;
+}
+
+.loopRing6 {
+    width: 110pt;
+    height: 110pt;
+    border: solid #0f0f0f 7.3333333333pt;
+    border-radius: 50%;
+    box-shadow: 7.3333333333pt 7.3333333333pt 3.6666666667pt black;
+    margin-right: -25pt;
+}

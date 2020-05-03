@@ -1,0 +1,31 @@
+$yellow: #fdf313;
+$orange: #ff7c0d;
+$black: #0f0f0f;
+
+@mixin ring($size, $color){
+  width: $size;
+  height: $size;
+  border: solid $color $size/15;
+  border-radius: 50%;
+  box-shadow: $size/15 $size/15 $size/30 darken($color, 30) ;
+}
+
+
+.preciousRings{
+  @include ring(50pt, $orange);
+}
+
+.theOneRing{
+  @include ring(150pt,$yellow);
+}
+
+.testRing{
+  @include ring(800pt, $black)
+}
+
+@for $n from 1 through 6 {
+  .loopRing#{$n} {
+    @include ring(50pt + $n*10, $black);
+    margin-right: -25pt;
+  }
+}
